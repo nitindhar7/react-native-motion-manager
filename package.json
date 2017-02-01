@@ -29,7 +29,7 @@
     "url": "https://github.com/pwmckenna/react-native-motion-manager/issues"
   },
   "homepage": "https://github.com/pwmckenna/react-native-motion-manager",
-  "peerDependencies": {
-    "react-native": "*"
+  "dependencies": {
+    "react-native": "0.33.0"
   }
 }

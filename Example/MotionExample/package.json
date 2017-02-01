@@ -8,7 +8,7 @@
   "dependencies": {
     "react-native": "^0.3.11",
     "react-native-button": "^1.0.0",
-    "react-native-motion-manager": "^0.0.1"
+    "react-native-motion-manager": "git+https://github.com/nitindhar7/react-native-motion-manager.git"
   },
   "description": "React Native wrapper for native iOS CMMotionManager",
   "main": "index.ios.js",
